@@ -1,5 +1,5 @@
 #basado en Blackjack Master: https://www.minijuegos.com/juego/blackjack-master
-load 'jugadores.arb'
+load 'jugadores.rb'
 system "cls"
 
 

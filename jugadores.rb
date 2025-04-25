@@ -1,4 +1,4 @@
-load 'cartas.arb'
+load 'cartas.rb'
 class Jugador
     attr_accessor :sumadeldealer, :sumadeljugador
     def initialize
